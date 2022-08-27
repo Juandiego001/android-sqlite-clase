@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_Votantes</string>
+    <string name="texo_cedula">Cédula</string>
+    <string name="texo_nombre_apellido">Nombre y apellido</string>
+    <string name="texo_nombre_colegio">Nombre del colegio</string>
+    <string name="texo_numero_mesa">Número de mesa</string>
+    <string name="texo_ingresar">Ingresar</string>
+    <string name="texo_eliminar">Eliminar</string>
+    <string name="texo_consulta">Consulta</string>
+    <string name="texo_modificacion">Modificación</string>
+</resources>
